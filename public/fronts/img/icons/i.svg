@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-25.0%" y="-24.2%" width="150.0%" height="148.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.262256567 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Work-Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Vintage" transform="translate(-28.000000, -474.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Social-Icon" transform="translate(22.000000, 354.000000)">
+                <g id="if_instagram_online_social_media_734394" filter="url(#filter-1)" transform="translate(1.000000, 112.000000)">
+                    <path d="M22.057,8.924 L9.943,8.924 C8.803,8.924 7.924,9.803 7.924,10.943 L7.924,23.056 C7.924,24.196 8.803,25.075 9.943,25.075 L22.056,25.075 C23.196,25.075 24.075,24.196 24.075,23.056 L24.075,10.943 C24.076,9.803 23.196,8.924 22.057,8.924 Z M16.012,13.827 C17.803,13.827 19.255,15.234 19.255,16.969 C19.255,18.704 17.803,20.111 16.012,20.111 C14.222,20.111 12.77,18.703 12.77,16.969 C12.77,15.234 14.222,13.827 16.012,13.827 Z M22.057,22.552 C22.057,22.906 21.906,23.057 21.552,23.057 L10.448,23.057 C10.095,23.057 9.943,22.906 9.943,22.552 L9.943,15.486 L11.201,15.76 C11.066,16.199 10.993,16.663 10.993,17.145 C10.993,19.829 13.241,22.008 16.011,22.008 C18.783,22.008 21.03,19.83 21.03,17.145 C21.03,16.663 20.957,16.199 20.822,15.76 L22.056,15.486 L22.056,22.552 L22.057,22.552 Z M22.057,13.467 C22.057,13.746 21.831,13.972 21.552,13.972 L19.533,13.972 C19.254,13.972 19.028,13.746 19.028,13.467 L19.028,11.448 C19.028,11.169 19.254,10.943 19.533,10.943 L21.552,10.943 C21.831,10.943 22.057,11.169 22.057,11.448 L22.057,13.467 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

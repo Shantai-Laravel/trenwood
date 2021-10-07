@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pagini-tehnice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Register" transform="translate(-1016.000000, -477.000000)" fill="#3A559F" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(1016.000000, 477.000000)">
+                <path d="M0,0 L0,32 L17.0419503,32 L17.0419503,19.639067 L12.8759748,19.639067 L12.8759748,14.5929915 L17.0419503,14.5929915 L17.0419503,10.355184 C17.0419503,7.27314857 19.5404121,4.77468677 22.6224475,4.77468677 L26.9776578,4.77468677 L26.9776578,9.31225067 L23.8612863,9.31225067 C22.8819696,9.31225067 22.0880258,10.1061945 22.0880258,11.0855112 L22.0880258,14.5930617 L26.8993659,14.5930617 L26.2344107,19.6391372 L22.0880258,19.6391372 L22.0880258,32 L32,32 L32,0 L0,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+Disallow: *..*
+Disallow: *.htm$
+Disallow: *.php*
+Disallow: *?page=*
+Disallow: */public*
+Disallow: */back*
+
+
+User-agent: Googlebot
+Allow: /
+Disallow: *..*
+Disallow: *.htm$
+Disallow: *.php*
+Disallow: *?page=*
+Disallow: */public*
+Disallow: */back*
+
+
+User-agent: Yandex
+Allow: /
+Disallow: *..*
+Disallow: *.htm$
+Disallow: *.php*
+Disallow: *?page=*
+Disallow: */public*
+Disallow: */back*

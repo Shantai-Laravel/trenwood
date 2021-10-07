@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-24.2%" y="-24.2%" width="148.5%" height="148.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.262256567 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Work-Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Coleccion_one-Copy" transform="translate(-27.000000, -530.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Social-Icon" transform="translate(22.000000, 354.000000)">
+                <g id="if_online_social_media_linked_in_734383" filter="url(#filter-1)" transform="translate(0.000000, 168.000000)">
+                    <path d="M24.299,23.932 L24.299,17.795 C24.299,14.507 22.544,12.977 20.203,12.977 C18.314,12.977 17.468,14.016 16.997,14.745 L16.997,13.228 L13.439,13.228 C13.486,14.233 13.439,23.932 13.439,23.932 L16.997,23.932 L16.997,17.954 C16.997,17.635 17.02,17.315 17.114,17.087 C17.371,16.448 17.956,15.786 18.939,15.786 C20.227,15.786 20.742,16.767 20.742,18.206 L20.742,23.933 L24.299,23.932 Z M9.69,11.767 C10.93,11.767 11.703,10.944 11.703,9.917 C11.68,8.867 10.93,8.068 9.713,8.068 C8.496,8.068 7.701,8.866 7.701,9.916 C7.701,10.944 8.473,11.766 9.668,11.766 L9.69,11.766 L9.69,11.767 Z M11.469,23.932 L11.469,13.228 L7.912,13.228 L7.912,23.932 L11.469,23.932 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

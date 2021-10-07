@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.6359896,0.0327935065 C8.22201558,10.4499753 -0.0896207792,18.9089234 0.000690909091,18.9992351 C0.0912493506,19.0895468 8.54995065,10.7779104 18.9671325,0.363936364 C18.9054442,0.317053247 18.8452364,0.267455844 18.7889766,0.211196104 C18.7327169,0.15468961 18.6828727,0.0944818182 18.6359896,0.0327935065" id="path-1"></path>
+        <filter x="-17.4%" y="-13.2%" width="134.1%" height="136.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.57962857,0.801628571 C3.52562857,0.730771429 3.4682,0.661342857 3.40334286,0.596485714 C3.33848571,0.531628571 3.26934286,0.4742 3.1982,0.420485714 C2.42477143,-0.166657143 1.31848571,-0.109228571 0.612771429,0.596485714 C-0.0929428571,1.30191429 -0.150371429,2.40762857 0.435628571,3.18077143 C0.489914286,3.2522 0.547628571,3.32191429 0.612771429,3.38734286 C0.677914286,3.45248571 0.747628571,3.50991429 0.819057143,3.5642 C1.59248571,4.15048571 2.6982,4.09277143 3.40334286,3.38734286 C4.10934286,2.68134286 4.16677143,1.57505714 3.57962857,0.801628571" id="path-3"></path>
+        <filter x="-82.4%" y="-69.7%" width="264.1%" height="264.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0.0158909091,0.363887013 C10.4330727,10.777861 18.891774,19.0897442 18.9823325,18.9991857 C19.0726442,18.908874 10.760761,10.449926 0.347033766,0.0327441558 C0.300150649,0.0944324675 0.250306494,0.15464026 0.194046753,0.211146753 C0.137787013,0.267406494 0.0775792208,0.317250649 0.0158909091,0.363887013" id="path-5"></path>
+        <filter x="-18.5%" y="-11.4%" width="136.1%" height="134.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0.782057143,0.420485714 C0.710914286,0.4742 0.641771429,0.531628571 0.576914286,0.596485714 C0.512057143,0.661342857 0.454628571,0.730771429 0.400628571,0.801628571 C-0.186228571,1.57505714 -0.1288,2.68134286 0.576914286,3.38734286 C1.28205714,4.09277143 2.38777143,4.15048571 3.1612,3.5642 C3.23262857,3.50991429 3.30234286,3.45248571 3.36748571,3.38734286 C3.43262857,3.32191429 3.49034286,3.2522 3.54462857,3.18077143 C4.13062857,2.40762857 4.0732,1.30191429 3.36748571,0.596485714 C2.66177143,-0.109228571 1.55548571,-0.166657143 0.782057143,0.420485714" id="path-7"></path>
+        <filter x="-82.4%" y="-69.1%" width="264.8%" height="264.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Work-Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Help-Desk-Estel" transform="translate(-403.000000, -1235.000000)">
+            <g id="Wish-List" transform="translate(96.000000, 1218.000000)">
+                <g id="Group-3">
+                    <g id="Group-17" transform="translate(309.000000, 18.000000)">
+                        <g id="Group-3" transform="translate(0.000000, 3.000000)">
+                            <g id="Fill-1">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#51381F" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                        <g id="Group-6" transform="translate(18.000000, 0.000000)">
+                            <g id="Fill-4">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#51381F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                        <path d="M19.0467106,1.99996773 C19.0343462,2.00120859 19.0180001,1.96664192 19.0050071,1.89963578 C18.9964149,1.83280689 18.9947384,1.73229767 19.0345558,1.61299837 C19.0735349,1.49440812 19.1594566,1.35897771 19.3009132,1.24340096 C19.4396454,1.12622884 19.6420854,1.03724184 19.8677871,1.00887945 C20.0945367,0.980871586 20.3164663,1.02146526 20.4904054,1.09768918 C20.6649733,1.17533123 20.7896646,1.28612181 20.8688802,1.38875822 C20.9506107,1.49192641 20.9780637,1.59084025 20.9948289,1.65589648 C21.0038402,1.72343442 21.0006968,1.76030553 20.9883324,1.76225545 C20.9579454,1.76828245 20.9256724,1.62274794 20.7624211,1.45434624 C20.6802715,1.37209531 20.5650106,1.28647634 20.4149619,1.22797891 C20.2651228,1.1708996 20.0815437,1.14165089 19.8941923,1.16469533 C19.7076793,1.1886261 19.539608,1.25705036 19.4168027,1.35029172 C19.2921114,1.44211496 19.2078662,1.55060111 19.1586184,1.65004674 C19.060961,1.85124245 19.0775166,1.99837235 19.0467106,1.99996773" id="Fill-7" fill="#FFFFFF"></path>
+                        <g id="Group-11" transform="translate(3.000000, 3.000000)">
+                            <g id="Fill-9">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#51381F" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <g id="Group-14">
+                            <g id="Fill-12">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#51381F" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                        </g>
+                        <path d="M1.99996789,2.95328974 C2.00120874,2.96544444 1.96646481,2.98179043 1.89945865,2.99499296 C1.83280702,3.00358508 1.73247505,3.00526159 1.61317573,2.96544444 C1.4944082,2.92625599 1.35897776,2.84054434 1.243401,2.69908869 C1.12640612,2.5601478 1.03724184,2.35770905 1.00887945,2.13200869 C0.980871583,1.90547008 1.02146526,1.68333232 1.0976892,1.50960382 C1.17515399,1.3348275 1.28594459,1.21034653 1.38875828,1.13113136 C1.49192649,1.04919187 1.59084034,1.02173899 1.65589659,1.00518344 C1.72343454,0.996172191 1.76030565,0.99931565 1.76225557,1.01147036 C1.76828258,1.04206669 1.6229253,1.07412997 1.45416905,1.23738027 C1.37209537,1.3197389 1.28647639,1.43499906 1.22797895,1.58504684 C1.17089963,1.73488505 1.14165091,1.91846305 1.16469536,2.10560364 C1.18862613,2.29211554 1.25705041,2.46018581 1.35029178,2.58299027 C1.44211503,2.70768081 1.55060119,2.79192551 1.65004684,2.84117303 C1.85141985,2.93903939 1.99837251,2.92248384 1.99996789,2.95328974" id="Fill-15" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

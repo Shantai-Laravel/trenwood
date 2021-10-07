@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Work-Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product_Page_Filtru_Inchis" transform="translate(-1403.000000, -210.000000)" fill="#272A2A">
+            <g id="Filtru" transform="translate(1119.000000, 140.000000)">
+                <g id="Collection" transform="translate(2.000000, 59.000000)">
+                    <path d="M285.295651,22 C285.220002,22 285.144353,21.9736865 285.086435,21.9215965 C284.971188,21.8168794 284.971188,21.646647 285.086435,21.54193 L292.287247,14.9989931 L285.086435,8.45820427 C284.971188,8.35348721 284.971188,8.18325486 285.086435,8.0785378 C285.201681,7.97382073 285.389029,7.97382073 285.504276,8.0785378 L292.913713,14.8088914 C292.969268,14.8593704 293,14.9275707 293,14.9989931 C293,15.0704155 292.968677,15.1386159 292.913713,15.1890948 L285.504276,21.9210594 C285.446948,21.9736865 285.371299,22 285.295651,22 Z" id="Path" transform="translate(289.000000, 15.000000) rotate(90.000000) translate(-289.000000, -15.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

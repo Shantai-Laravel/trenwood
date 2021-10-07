@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="42px" viewBox="0 0 66 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Work-Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-page-Copy-3" transform="translate(-22.000000, -840.000000)">
+            <g id="Rectangle-2" transform="translate(0.000000, 840.000000)">
+                <g id="BUSSINES">
+                    <g id="Rectangle-2">
+                        <g id="Group" transform="translate(22.000000, 0.000000)">
+                            <g id="down-arrow" fill="#C9E0A9">
+                                <g id="Group-4">
+                                    <path d="M31.6725832,26.3091787 C31.2315376,25.8969404 30.5148386,25.8969404 30.0737931,26.3091787 L16.0154663,39.4750403 L1.92957426,26.3091787 C1.48852871,25.8969404 0.771829703,25.8969404 0.330784159,26.3091787 C-0.110261386,26.7214171 -0.110261386,27.3913043 0.330784159,27.8035427 L15.1885059,41.6908213 C15.4090287,41.8969404 15.6846822,42 15.987901,42 C16.2635545,42 16.5667733,41.8969404 16.787296,41.6908213 L31.6450178,27.8035427 C32.1136287,27.3913043 32.1136287,26.7214171 31.6725832,26.3091787 Z" id="Path" transform="translate(16.000000, 34.000000) scale(1, -1) translate(-16.000000, -34.000000) "></path>
+                                    <text id="Footer" font-family="DTLNobelT, DTL Nobel" font-size="10" font-weight="normal" letter-spacing="0.25">
+                                        <tspan x="35" y="39">Footer</tspan>
+                                    </text>
+                                    <path d="M31.6725832,13.3285024 C31.2315376,12.8904992 30.5148386,12.8904992 30.0737931,13.3285024 L16.0154663,27.3172303 L1.92957426,13.3285024 C1.48852871,12.8904992 0.771829703,12.8904992 0.330784159,13.3285024 C-0.110261386,13.7665056 -0.110261386,14.4782609 0.330784159,14.9162641 L15.1885059,29.6714976 C15.4090287,29.8904992 15.6846822,30 15.987901,30 C16.2635545,30 16.5667733,29.8904992 16.787296,29.6714976 L31.6450178,14.9162641 C32.1136287,14.4782609 32.1136287,13.7665056 31.6725832,13.3285024 Z" id="Path" opacity="0.699451265" transform="translate(16.000000, 21.500000) scale(1, -1) translate(-16.000000, -21.500000) "></path>
+                                    <text id="Footer" opacity="0.699451265" font-family="DTLNobelT, DTL Nobel" font-size="10" font-weight="normal" letter-spacing="0.25">
+                                        <tspan x="35" y="26">Footer</tspan>
+                                    </text>
+                                    <path d="M31.6725832,0.309178744 C31.2315376,-0.103059581 30.5148386,-0.103059581 30.0737931,0.309178744 L16.0154663,13.4750403 L1.92957426,0.309178744 C1.48852871,-0.103059581 0.771829703,-0.103059581 0.330784159,0.309178744 C-0.110261386,0.721417069 -0.110261386,1.39130435 0.330784159,1.80354267 L15.1885059,15.6908213 C15.4090287,15.8969404 15.6846822,16 15.987901,16 C16.2635545,16 16.5667733,15.8969404 16.787296,15.6908213 L31.6450178,1.80354267 C32.1136287,1.39130435 32.1136287,0.721417069 31.6725832,0.309178744 Z" id="Path" opacity="0.400716146" transform="translate(16.000000, 8.000000) scale(1, -1) translate(-16.000000, -8.000000) "></path>
+                                    <text id="Footer" opacity="0.400716146" font-family="DTLNobelT, DTL Nobel" font-size="10" font-weight="normal" letter-spacing="0.25">
+                                        <tspan x="35" y="12">Footer</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="down-arrow-copy" opacity="0.495582217" transform="translate(0.000000, 13.000000)"></g>
+                            <g id="down-arrow-copy-2"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

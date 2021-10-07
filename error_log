@@ -1,0 +1,10 @@
+[17-Oct-2018 13:14:45 UTC] PHP Fatal error:  Class 'Admin\ServiceProviders' not found in /home/toplikemedia/public_html/package/packages/Likemedia/admin/src/AdminServiceProvider.php on line 10
+[17-Oct-2018 13:15:47 UTC] PHP Fatal error:  Class 'Illuminate\Suport\ServiceProvider' not found in /home/toplikemedia/public_html/package/packages/Likemedia/admin/src/AdminServiceProvider.php on line 10
+[17-Oct-2018 13:16:14 UTC] PHP Warning:  Uncaught ErrorException: require(/home/toplikemedia/public_html/package/packages/Likemedia/admin/srcroutes/web.php): failed to open stream: No such file or directory in /home/toplikemedia/public_html/package/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php:71
+Stack trace:
+#0 /home/toplikemedia/public_html/package/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(71): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/t...', '/home/toplikeme...', 71, Array)
+#1 /home/toplikemedia/public_html/package/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(71): require()
+#2 /home/toplikemedia/public_html/package/packages/Likemedia/admin/src/AdminServiceProvider.php(14): Illuminate\Support\ServiceProvider->loadRoutesFrom('/home/toplikeme...')
+#3 [internal function]: Admin\AdminServiceProvider->boot()
+#4 /home/toplikemedia/public_html/package/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(29): call_user_func_array(Array in /home/toplikemedia/public_html/package/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 71
+[17-Oct-2018 13:16:14 UTC] PHP Fatal error:  Illuminate\Support\ServiceProvider::loadRoutesFrom(): Failed opening required '/home/toplikemedia/public_html/package/packages/Likemedia/admin/srcroutes/web.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/toplikemedia/public_html/package/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php on line 71
